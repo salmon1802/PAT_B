@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3249a566-fe10-4ca3-91f5-1a89e8bf6434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main1006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1012.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,21 +55,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main1010">
-    <configuration name="Main1006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1006" />
-      <module name="PAT_b" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main1007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1007" />
-      <module name="PAT_b" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main1012">
     <configuration name="Main1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main1008" />
       <module name="PAT_b" />
@@ -94,13 +77,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main1011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1011" />
+      <module name="PAT_b" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1012" />
+      <module name="PAT_b" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main1012" />
+        <item itemvalue="Application.Main1011" />
         <item itemvalue="Application.Main1010" />
         <item itemvalue="Application.Main1009" />
         <item itemvalue="Application.Main1008" />
-        <item itemvalue="Application.Main1007" />
-        <item itemvalue="Application.Main1006" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +130,8 @@
       <workItem from="1628095333092" duration="28000" />
       <workItem from="1628095373509" duration="206000" />
       <workItem from="1628170474419" duration="5145000" />
-      <workItem from="1628256362387" duration="12122000" />
+      <workItem from="1628256362387" duration="12169000" />
+      <workItem from="1628341665125" duration="6850000" />
     </task>
     <task id="LOCAL-00001" summary="第1001题完成">
       <created>1627828319323</created>
@@ -163,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628095267973</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第1010题完成">
+      <created>1628270330927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628270330927</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +179,8 @@
     <MESSAGE value="第1002题完成" />
     <MESSAGE value="第1003题完成" />
     <MESSAGE value="第1005题完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="第1005题完成" />
+    <MESSAGE value="第1010题完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="第1010题完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="367" y="113" key="#Project_Structure" timestamp="1627824537364">
@@ -185,56 +191,65 @@
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state x="580" y="144" key="#com.intellij.ide.util.MemberChooser/0.29.1549.842@0.29.1549.842" timestamp="1628074389899" />
-    <state x="409" y="46" key="CommitChangelistDialog2" timestamp="1628095267057">
+    <state x="409" y="46" key="CommitChangelistDialog2" timestamp="1628270330000">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state x="409" y="46" key="CommitChangelistDialog2/0.29.1549.842@0.29.1549.842" timestamp="1628095267057" />
+    <state x="409" y="46" key="CommitChangelistDialog2/0.29.1549.842@0.29.1549.842" timestamp="1628270330000" />
     <state x="555" y="195" key="FileChooserDialogImpl" timestamp="1627827779124">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state x="555" y="195" key="FileChooserDialogImpl/0.29.1549.842@0.29.1549.842" timestamp="1627827779124" />
-    <state width="1506" height="217" key="GridCell.Tab.0.bottom" timestamp="1628269366571">
+    <state width="1506" height="217" key="GridCell.Tab.0.bottom" timestamp="1628348206184">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state width="1506" height="217" key="GridCell.Tab.0.bottom/0.29.1549.842@0.29.1549.842" timestamp="1628269366571" />
-    <state width="1506" height="217" key="GridCell.Tab.0.center" timestamp="1628269366571">
+    <state width="1506" height="217" key="GridCell.Tab.0.bottom/0.29.1549.842@0.29.1549.842" timestamp="1628348206184" />
+    <state width="1506" height="217" key="GridCell.Tab.0.center" timestamp="1628348206184">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state width="1506" height="217" key="GridCell.Tab.0.center/0.29.1549.842@0.29.1549.842" timestamp="1628269366571" />
-    <state width="1506" height="217" key="GridCell.Tab.0.left" timestamp="1628269366571">
+    <state width="1506" height="217" key="GridCell.Tab.0.center/0.29.1549.842@0.29.1549.842" timestamp="1628348206184" />
+    <state width="1506" height="217" key="GridCell.Tab.0.left" timestamp="1628348206184">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state width="1506" height="217" key="GridCell.Tab.0.left/0.29.1549.842@0.29.1549.842" timestamp="1628269366571" />
-    <state width="1506" height="217" key="GridCell.Tab.0.right" timestamp="1628269366571">
+    <state width="1506" height="217" key="GridCell.Tab.0.left/0.29.1549.842@0.29.1549.842" timestamp="1628348206184" />
+    <state width="1506" height="217" key="GridCell.Tab.0.right" timestamp="1628348206184">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state width="1506" height="217" key="GridCell.Tab.0.right/0.29.1549.842@0.29.1549.842" timestamp="1628269366571" />
-    <state width="1506" height="269" key="GridCell.Tab.1.bottom" timestamp="1628268524348">
+    <state width="1506" height="217" key="GridCell.Tab.0.right/0.29.1549.842@0.29.1549.842" timestamp="1628348206184" />
+    <state width="1506" height="269" key="GridCell.Tab.1.bottom" timestamp="1628343389073">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state width="1506" height="269" key="GridCell.Tab.1.bottom/0.29.1549.842@0.29.1549.842" timestamp="1628268524348" />
-    <state width="1506" height="269" key="GridCell.Tab.1.center" timestamp="1628268524348">
+    <state width="1506" height="269" key="GridCell.Tab.1.bottom/0.29.1549.842@0.29.1549.842" timestamp="1628343389073" />
+    <state width="1506" height="269" key="GridCell.Tab.1.center" timestamp="1628343389073">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state width="1506" height="269" key="GridCell.Tab.1.center/0.29.1549.842@0.29.1549.842" timestamp="1628268524348" />
-    <state width="1506" height="269" key="GridCell.Tab.1.left" timestamp="1628268524348">
+    <state width="1506" height="269" key="GridCell.Tab.1.center/0.29.1549.842@0.29.1549.842" timestamp="1628343389073" />
+    <state width="1506" height="269" key="GridCell.Tab.1.left" timestamp="1628343389073">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state width="1506" height="269" key="GridCell.Tab.1.left/0.29.1549.842@0.29.1549.842" timestamp="1628268524348" />
-    <state width="1506" height="269" key="GridCell.Tab.1.right" timestamp="1628268524348">
+    <state width="1506" height="269" key="GridCell.Tab.1.left/0.29.1549.842@0.29.1549.842" timestamp="1628343389073" />
+    <state width="1506" height="269" key="GridCell.Tab.1.right" timestamp="1628343389073">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state width="1506" height="269" key="GridCell.Tab.1.right/0.29.1549.842@0.29.1549.842" timestamp="1628268524348" />
+    <state width="1506" height="269" key="GridCell.Tab.1.right/0.29.1549.842@0.29.1549.842" timestamp="1628343389073" />
     <state x="286" y="96" key="SettingsEditor" timestamp="1628173058068">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state x="286" y="96" key="SettingsEditor/0.29.1549.842@0.29.1549.842" timestamp="1628173058068" />
-    <state x="367" y="187" key="Vcs.Push.Dialog.v2" timestamp="1628270312534">
+    <state x="367" y="187" key="Vcs.Push.Dialog.v2" timestamp="1628270333393">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state x="367" y="187" key="Vcs.Push.Dialog.v2/0.29.1549.842@0.29.1549.842" timestamp="1628270312534" />
+    <state x="367" y="187" key="Vcs.Push.Dialog.v2/0.29.1549.842@0.29.1549.842" timestamp="1628270333393" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main1011.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="bufferedReader" />
