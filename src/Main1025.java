@@ -91,16 +91,17 @@ public class Main1025 {
         }
 
     }
-}
+    static class Node{
+        String adress;
+        long Data;
+        long order;
+        String next;
 
-class Node{
-    String adress;
-    long Data;
-    long order;
-    String next;
-
-    @Override
-    public String toString() {
-        return  adress + " " + Data + " " + next;
+        @Override
+        public String toString() {
+            return  adress + " " + Data + " " + next;
+        }
     }
 }
+
+

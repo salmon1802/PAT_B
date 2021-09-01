@@ -45,9 +45,11 @@ public class Main1028 {
             System.out.println(isVaild);
         }
     }
+
+    static class People{
+        String name;
+        double liveDay;
+    }
 }
 
-class People{
-    String name;
-    double liveDay;
-}
+

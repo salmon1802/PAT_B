@@ -103,58 +103,62 @@ public class Main1015 {
 
     }
 
-}
+   static class Student{
+        int number;
+        int morality;
+        int intell;
+        int total;
 
-class StudentCompare implements Comparator<Student>{
-
-    public int compare(Student o1, Student o2) {
-        if(o1.getTotal() == o2.getTotal()){
-            if(o1.getMorality() == o2.getMorality()){
-                return o1.getNumber() - o2.getNumber();
-            }else {
-                return o2.getMorality() - o1.getMorality();
-            }
+        public int getTotal() {
+            return total;
         }
-        return o2.getTotal() - o1.getTotal();
+
+        public void setTotal(int total) {
+            this.total = total;
+        }
+
+        public int getNumber() {
+            return number;
+        }
+
+        public void setNumber(int number) {
+            this.number = number;
+        }
+
+        public int getMorality() {
+            return morality;
+        }
+
+        public void setMorality(int morality) {
+            this.morality = morality;
+        }
+
+        public int getIntell() {
+            return intell;
+        }
+
+        public void setIntell(int intell) {
+            this.intell = intell;
+        }
     }
+
+   static class StudentCompare implements Comparator<Student>{
+
+        public int compare(Student o1, Student o2) {
+            if(o1.getTotal() == o2.getTotal()){
+                if(o1.getMorality() == o2.getMorality()){
+                    return o1.getNumber() - o2.getNumber();
+                }else {
+                    return o2.getMorality() - o1.getMorality();
+                }
+            }
+            return o2.getTotal() - o1.getTotal();
+        }
+    }
+
 }
 
-class Student{
-    int number;
-    int morality;
-    int intell;
-    int total;
 
-    public int getTotal() {
-        return total;
-    }
 
-    public void setTotal(int total) {
-        this.total = total;
-    }
 
-    public int getNumber() {
-        return number;
-    }
-
-    public void setNumber(int number) {
-        this.number = number;
-    }
-
-    public int getMorality() {
-        return morality;
-    }
-
-    public void setMorality(int morality) {
-        this.morality = morality;
-    }
-
-    public int getIntell() {
-        return intell;
-    }
-
-    public void setIntell(int intell) {
-        this.intell = intell;
-    }
-}
 
