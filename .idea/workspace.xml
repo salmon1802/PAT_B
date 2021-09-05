@@ -2,33 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3249a566-fe10-4ca3-91f5-1a89e8bf6434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main1029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1085.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main1015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main1015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main1025.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main1025.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main1028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main1028.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,39 +60,39 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
   </component>
-  <component name="RunManager" selected="Application.Main1082">
-    <configuration name="Main1081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1081" />
+  <component name="RunManager" selected="Application.Main1080">
+    <configuration name="Main1077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1077" />
       <module name="PAT_b" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1082" />
+    <configuration name="Main1078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1078" />
       <module name="PAT_b" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1087" />
+    <configuration name="Main1079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1079" />
       <module name="PAT_b" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1088" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1088" />
+    <configuration name="Main1080" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1080" />
       <module name="PAT_b" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1090" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1090" />
+    <configuration name="Main1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1085" />
       <module name="PAT_b" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main1082" />
-        <item itemvalue="Application.Main1081" />
-        <item itemvalue="Application.Main1090" />
-        <item itemvalue="Application.Main1088" />
-        <item itemvalue="Application.Main1087" />
+        <item itemvalue="Application.Main1080" />
+        <item itemvalue="Application.Main1079" />
+        <item itemvalue="Application.Main1078" />
+        <item itemvalue="Application.Main1077" />
+        <item itemvalue="Application.Main1085" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +170,14 @@
       <workItem from="1630311873747" duration="6000" />
       <workItem from="1630311913769" duration="17530000" />
       <workItem from="1630415860744" duration="5441000" />
-      <workItem from="1630502648538" duration="5570000" />
+      <workItem from="1630502648538" duration="5722000" />
+      <workItem from="1630590508348" duration="9495000" />
+      <workItem from="1630600288824" duration="194000" />
+      <workItem from="1630675587915" duration="261000" />
+      <workItem from="1630675864518" duration="5705000" />
+      <workItem from="1630681798445" duration="82000" />
+      <workItem from="1630762964947" duration="6664000" />
+      <workItem from="1630847943364" duration="6006000" />
     </task>
     <task id="LOCAL-00001" summary="第1001题完成">
       <created>1627828319323</created>
@@ -246,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629199353201</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="第不知道多少题完成">
+      <created>1630508396597</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630508396598</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +257,8 @@
     <MESSAGE value="第1012题完成" />
     <MESSAGE value="第1018题完成" />
     <MESSAGE value="第1028题完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="第1028题完成" />
+    <MESSAGE value="第不知道多少题完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="第不知道多少题完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="367" y="113" key="#Notifications" timestamp="1629276645768">
@@ -272,70 +269,74 @@
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state x="367" y="113" key="#Project_Structure/0.29.1549.842@0.29.1549.842" timestamp="1627824537364" />
-    <state x="580" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1629546213711">
+    <state x="580" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1630854684070">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state x="580" y="144" key="#com.intellij.ide.util.MemberChooser/0.29.1549.842@0.29.1549.842" timestamp="1629546213711" />
-    <state x="409" y="46" key="CommitChangelistDialog2" timestamp="1629199352232">
+    <state x="580" y="144" key="#com.intellij.ide.util.MemberChooser/0.29.1549.842@0.29.1549.842" timestamp="1630854684070" />
+    <state x="409" y="46" key="CommitChangelistDialog2" timestamp="1630508395587">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state x="409" y="46" key="CommitChangelistDialog2/0.29.1549.842@0.29.1549.842" timestamp="1629199352232" />
+    <state x="409" y="46" key="CommitChangelistDialog2/0.29.1549.842@0.29.1549.842" timestamp="1630508395587" />
+    <state width="406" height="466" key="DebuggerActiveHint" timestamp="1630767972071">
+      <screen x="0" y="29" width="1549" height="842" />
+    </state>
+    <state width="406" height="466" key="DebuggerActiveHint/0.29.1549.842@0.29.1549.842" timestamp="1630767972071" />
     <state x="555" y="195" key="FileChooserDialogImpl" timestamp="1627827779124">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state x="555" y="195" key="FileChooserDialogImpl/0.29.1549.842@0.29.1549.842" timestamp="1627827779124" />
-    <state width="1506" height="177" key="GridCell.Tab.0.bottom" timestamp="1630508127011">
+    <state width="1506" height="177" key="GridCell.Tab.0.bottom" timestamp="1630854883649">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state width="1506" height="276" key="GridCell.Tab.0.bottom/0.0.1549.871@0.0.1549.871" timestamp="1628961349411" />
-    <state width="1506" height="177" key="GridCell.Tab.0.bottom/0.29.1549.842@0.29.1549.842" timestamp="1630508127011" />
-    <state width="1506" height="177" key="GridCell.Tab.0.center" timestamp="1630508127011">
+    <state width="1506" height="177" key="GridCell.Tab.0.bottom/0.29.1549.842@0.29.1549.842" timestamp="1630854883649" />
+    <state width="1506" height="177" key="GridCell.Tab.0.center" timestamp="1630854883648">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state width="1506" height="276" key="GridCell.Tab.0.center/0.0.1549.871@0.0.1549.871" timestamp="1628961349411" />
-    <state width="1506" height="177" key="GridCell.Tab.0.center/0.29.1549.842@0.29.1549.842" timestamp="1630508127011" />
-    <state width="1506" height="177" key="GridCell.Tab.0.left" timestamp="1630508127011">
+    <state width="1506" height="177" key="GridCell.Tab.0.center/0.29.1549.842@0.29.1549.842" timestamp="1630854883648" />
+    <state width="1506" height="177" key="GridCell.Tab.0.left" timestamp="1630854883648">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state width="1506" height="276" key="GridCell.Tab.0.left/0.0.1549.871@0.0.1549.871" timestamp="1628961349411" />
-    <state width="1506" height="177" key="GridCell.Tab.0.left/0.29.1549.842@0.29.1549.842" timestamp="1630508127011" />
-    <state width="1506" height="177" key="GridCell.Tab.0.right" timestamp="1630508127011">
+    <state width="1506" height="177" key="GridCell.Tab.0.left/0.29.1549.842@0.29.1549.842" timestamp="1630854883648" />
+    <state width="1506" height="177" key="GridCell.Tab.0.right" timestamp="1630854883649">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state width="1506" height="276" key="GridCell.Tab.0.right/0.0.1549.871@0.0.1549.871" timestamp="1628961349411" />
-    <state width="1506" height="177" key="GridCell.Tab.0.right/0.29.1549.842@0.29.1549.842" timestamp="1630508127011" />
-    <state width="1506" height="211" key="GridCell.Tab.1.bottom" timestamp="1630506682748">
+    <state width="1506" height="177" key="GridCell.Tab.0.right/0.29.1549.842@0.29.1549.842" timestamp="1630854883649" />
+    <state width="1506" height="211" key="GridCell.Tab.1.bottom" timestamp="1630851826011">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state width="1506" height="276" key="GridCell.Tab.1.bottom/0.0.1549.871@0.0.1549.871" timestamp="1628961349411" />
-    <state width="1506" height="211" key="GridCell.Tab.1.bottom/0.29.1549.842@0.29.1549.842" timestamp="1630506682748" />
-    <state width="1506" height="211" key="GridCell.Tab.1.center" timestamp="1630506682748">
+    <state width="1506" height="211" key="GridCell.Tab.1.bottom/0.29.1549.842@0.29.1549.842" timestamp="1630851826011" />
+    <state width="1506" height="211" key="GridCell.Tab.1.center" timestamp="1630851826011">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state width="1506" height="276" key="GridCell.Tab.1.center/0.0.1549.871@0.0.1549.871" timestamp="1628961349411" />
-    <state width="1506" height="211" key="GridCell.Tab.1.center/0.29.1549.842@0.29.1549.842" timestamp="1630506682748" />
-    <state width="1506" height="211" key="GridCell.Tab.1.left" timestamp="1630506682748">
+    <state width="1506" height="211" key="GridCell.Tab.1.center/0.29.1549.842@0.29.1549.842" timestamp="1630851826011" />
+    <state width="1506" height="211" key="GridCell.Tab.1.left" timestamp="1630851826011">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state width="1506" height="276" key="GridCell.Tab.1.left/0.0.1549.871@0.0.1549.871" timestamp="1628961349411" />
-    <state width="1506" height="211" key="GridCell.Tab.1.left/0.29.1549.842@0.29.1549.842" timestamp="1630506682748" />
-    <state width="1506" height="211" key="GridCell.Tab.1.right" timestamp="1630506682748">
+    <state width="1506" height="211" key="GridCell.Tab.1.left/0.29.1549.842@0.29.1549.842" timestamp="1630851826011" />
+    <state width="1506" height="211" key="GridCell.Tab.1.right" timestamp="1630851826011">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
     <state width="1506" height="276" key="GridCell.Tab.1.right/0.0.1549.871@0.0.1549.871" timestamp="1628961349411" />
-    <state width="1506" height="211" key="GridCell.Tab.1.right/0.29.1549.842@0.29.1549.842" timestamp="1630506682748" />
-    <state x="286" y="96" key="SettingsEditor" timestamp="1629634744600">
+    <state width="1506" height="211" key="GridCell.Tab.1.right/0.29.1549.842@0.29.1549.842" timestamp="1630851826011" />
+    <state x="286" y="96" key="SettingsEditor" timestamp="1630769112572">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state x="286" y="96" key="SettingsEditor/0.29.1549.842@0.29.1549.842" timestamp="1629634744600" />
-    <state x="367" y="187" key="Vcs.Push.Dialog.v2" timestamp="1629199355936">
+    <state x="286" y="96" key="SettingsEditor/0.29.1549.842@0.29.1549.842" timestamp="1630769112572" />
+    <state x="367" y="187" key="Vcs.Push.Dialog.v2" timestamp="1630508399620">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state x="367" y="187" key="Vcs.Push.Dialog.v2/0.29.1549.842@0.29.1549.842" timestamp="1629199355936" />
-    <state x="437" y="192" width="672" height="678" key="search.everywhere.popup" timestamp="1629277839689">
+    <state x="367" y="187" key="Vcs.Push.Dialog.v2/0.29.1549.842@0.29.1549.842" timestamp="1630508399620" />
+    <state x="437" y="192" width="672" height="678" key="search.everywhere.popup" timestamp="1630766973258">
       <screen x="0" y="29" width="1549" height="842" />
     </state>
-    <state x="437" y="192" width="672" height="678" key="search.everywhere.popup/0.29.1549.842@0.29.1549.842" timestamp="1629277839689" />
+    <state x="437" y="192" width="672" height="678" key="search.everywhere.popup/0.29.1549.842@0.29.1549.842" timestamp="1630766973258" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,6 +401,36 @@
           <line>22</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main1084.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main1085.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main1076.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main1077.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main1079.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main1079.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Main1095.java</url>
           <line>97</line>
@@ -407,6 +438,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Main1084.java</url>
+          <line>25</line>
+          <properties class="Main1084" method="create">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Main1079.java</url>
+          <line>40</line>
+          <properties class="Main1079" method="isPalindromicNum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -416,5 +463,8 @@
         <watch expression="res" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PAT$Main1084.ic" NAME="Main1084 Coverage Results" MODIFIED="1630598628811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
